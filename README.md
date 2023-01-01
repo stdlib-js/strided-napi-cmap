@@ -173,7 +173,7 @@ static float complex scale( const float complex z ) {
 // ...
 
 // Register a Node-API module:
-STDLIB_STRIDED_NAPI_MODULE_CMAP( scale );
+STDLIB_STRIDED_NAPI_MODULE_CMAP( scale )
 ```
 
 The macro expects the following arguments:
@@ -258,7 +258,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
