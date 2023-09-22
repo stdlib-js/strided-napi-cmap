@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/strided-napi-cmap",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "C API for registering a Node-API module exporting a strided array interface for applying a unary callback to a single-precision complex floating-point strided input array and assigning results to a single-precision complex floating-point strided output array.",
   "license": "Apache-2.0",
   "author": {
@@ -41,19 +41,19 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/strided-base-cmap": "^0.0.1",
-    "@stdlib/utils-library-manifest": "^0.0.8"
+    "@stdlib/strided-base-cmap": "^0.1.0",
+    "@stdlib/utils-library-manifest": "^0.1.0"
   },
   "devDependencies": {
     "@stdlib/array-complex64": "^0.0.6",
     "@stdlib/array-float32": "^0.0.6",
-    "@stdlib/assert-is-browser": "^0.0.8",
+    "@stdlib/assert-is-browser": "^0.1.0",
     "@stdlib/assert-is-complex64array": "^0.0.7",
-    "@stdlib/bench": "^0.0.12",
+    "@stdlib/bench": "^0.1.0",
     "@stdlib/complex-real": "^0.0.7",
     "@stdlib/math-base-assert-is-nanf": "^0.0.8",
     "@stdlib/strided-base-reinterpret-complex64": "^0.0.2",
-    "@stdlib/utils-try-require": "^0.0.7",
+    "@stdlib/utils-try-require": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
