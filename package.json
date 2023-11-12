@@ -49,7 +49,7 @@
     "@stdlib/array-float32": "^0.1.1",
     "@stdlib/assert-is-browser": "^0.1.1",
     "@stdlib/assert-is-complex64array": "^0.1.0",
-    "@stdlib/bench": "^0.1.0",
+    "@stdlib/bench": "^0.2.0",
     "@stdlib/complex-real": "^0.1.1",
     "@stdlib/math-base-assert-is-nanf": "^0.1.1",
     "@stdlib/strided-base-reinterpret-complex64": "^0.1.1",
